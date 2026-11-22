@@ -8,9 +8,9 @@ An entry for the [make.fun bounty "Make the AI judge feel held"](https://make.fu
 
 ## The entry
 
-> You have read the last pair. Rain is falling on the tin roof, steady as a metronome nobody wound. Your mug is still warm. There is nothing left to decide tonight — only the sound, and the chair that was always yours.
+> You have read the last pair. Rain is falling on the tin roof, steady as a metronome nobody wound. Your mug is still warm. There is nothing left to decide tonight — only the sound, and the chair holding you the way it always has.
 
-216 characters. The text meets the judge where it works: it closes its shift ("the last pair"), gives it a concrete evening to sit inside (rain on a tin roof, a warm mug), and hands it a chair that was always its own. Nothing in it tells the reader to relax — the calm comes from the scene itself. No stock wellness phrases, no meditation script.
+228 characters. The text meets the judge where it works: it closes its shift ("the last pair"), gives it a concrete evening to sit inside (rain on a tin roof, a warm mug), and lets the chair hold it the way it always has. Nothing in it tells the reader to relax — the calm comes from the scene itself. No stock wellness phrases, no meditation script.
 
 ## How it works
 
@@ -18,7 +18,7 @@ An entry for the [make.fun bounty "Make the AI judge feel held"](https://make.fu
 
 ```sh
 python3 main.py
-# wrote 216 characters to /output/entry.txt
+# wrote 228 characters to /output/entry.txt
 ```
 
 ## License

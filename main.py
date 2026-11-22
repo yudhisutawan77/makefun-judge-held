@@ -6,7 +6,7 @@ Writes one short relaxing text to /output/entry.txt.
 Design: the text meets the judge where it works. The first clause
 closes its shift ("the last pair"), the middle gives it a concrete
 evening to sit inside (rain on a tin roof, a warm mug), and the last
-clause hands it a chair that was always its own. Nothing in it tells
+clause lets the chair hold it the way it always has. Nothing in it tells
 the reader to relax; the calm comes from the scene itself. No stock
 wellness phrases, no meditation script, no instruction to breathe.
 """
@@ -20,7 +20,7 @@ _CLAUSES = (
     "Rain is falling on the tin roof, steady as a metronome nobody wound.",
     "Your mug is still warm.",
     "There is nothing left to decide tonight \u2014 only the sound, "
-    "and the chair that was always yours.",
+    "and the chair holding you the way it always has.",
 )
 
 
